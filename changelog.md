@@ -12,3 +12,7 @@
 - Added More Tweak For Kernel
 - Added Tweak For Ram
 - Added More Tweak For Better Experience Gaming
+
+#1.3
+- Added Back Force Fast Charging
+- Added Bypass Charging 
