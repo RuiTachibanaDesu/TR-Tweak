@@ -16,3 +16,6 @@
 #1.3
 - Added Back Force Fast Charging
 - Added Bypass Charging 
+
+#1.3.1
+- Fix Minor Bugs
