@@ -19,3 +19,8 @@
 
 #1.3.1
 - Fix Minor Bugs
+
+#1.4
+- Fix Major Bug On Installer
+- Added Auto Cut Charger
+- Added More Tweak For Better Performance
