@@ -24,3 +24,6 @@
 - Fix Major Bug On Installer
 - Added Auto Cut Charger
 - Added More Tweak For Better Performance
+
+#1.4.1
+- Fixed Problem with Auto Cut Charger 
