@@ -27,3 +27,6 @@
 
 #1.4.1
 - Fixed Problem with Auto Cut Charger 
+
+#1.4.2
+- Fixed Installer
