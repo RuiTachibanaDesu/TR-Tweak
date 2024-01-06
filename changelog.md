@@ -30,3 +30,7 @@
 
 #1.4.2
 - Fixed Installer
+
+#1.5
+- Fixed an issue with some devices suddenly getting hot
+- Remove Some String
