@@ -15,7 +15,7 @@
 
 #1.3
 - Added Back Force Fast Charging
-- Added Bypass Charging 
+- Added Bypass Charging
 
 #1.3.1
 - Fix Minor Bugs
@@ -26,11 +26,10 @@
 - Added More Tweak For Better Performance
 
 #1.4.1
-- Fixed Problem with Auto Cut Charger 
+- Fixed Problem with Auto Cut Charger
 
 #1.4.2
 - Fixed Installer
 
 #1.5
-- Fixed an issue with some devices suddenly getting hot
 - Remove Some String
