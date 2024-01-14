@@ -29,3 +29,6 @@
 #1.6
 - Rebuild To Auto Cut Charging
 - Fix Some Issue
+
+#1.9
+- More Commit
