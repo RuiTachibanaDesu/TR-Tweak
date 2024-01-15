@@ -32,3 +32,8 @@
 
 #1.9
 - More Commit
+
+#2.0
+- More Stability
+- Improve Battery Saving
+- More Performance
