@@ -37,3 +37,6 @@
 - More Stability
 - Improve Battery Saving
 - More Performance
+
+#2.1
+- Fix Minor Bugs
