@@ -49,3 +49,4 @@
 
 #3.1
 - Add Block List App For Better Gheyming
+- Fix WiFi And Data Can't On In KSU And Apatch
