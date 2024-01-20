@@ -52,4 +52,4 @@
 - Fix WiFi And Data Can't On In KSU And Apatch
 
 #3.2
-- Hehe Gomen 🗿
+- Hehe Gomen
